@@ -1,5 +1,4 @@
--typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Electronics+%26+Robotics+Enthusiast;IoT+Developer;ESP32+%7C+Arduino+%7C+Embedded+Systems;Always+Building+Something+New">
-
+Hey, It's Me Uthpala 
 </div>
 
 ---
