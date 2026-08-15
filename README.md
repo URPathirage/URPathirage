@@ -169,21 +169,6 @@ A smart agriculture concept focused on improving irrigation efficiency and reduc
 
 ---
 
-### 🎮 Snake Game
-
-A small interactive browser game built with HTML, CSS and JavaScript.
-
-<p align="center">
-
-<a href="https://YOUR-USERNAME.github.io/YOUR-USERNAME/snake/">
-
-<img src="https://img.shields.io/badge/PLAY%20SNAKE-000000?style=for-the-badge&logo=ghost&logoColor=white">
-
-</a>
-
-</p>
-
----
 
 ## Currently Learning
 
