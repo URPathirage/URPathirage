@@ -9,7 +9,7 @@
 
 ### You wake up in my GitHub...
 
-There are three buttons in front of you:
+There are two buttons in front of you:
 
 <details>
 <summary>🤖 Choose the Robot</summary>
