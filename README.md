@@ -195,21 +195,6 @@ My goal isn't just to make projects that work.
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&rank_icon=github">
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&hide_border=true">
-
-</p>
-
----
 
 ## Let's Build Something
 
