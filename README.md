@@ -210,6 +210,24 @@ My goal isn't just to make projects that work.
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=42&duration=3000&pause=1200&center=true&vCenter=true&width=600&lines=See+Ya!+%F0%9F%91%8B;Until+Next+Time...;Keep+Going+%E2%9A%A1" />
+
+<p><sub>Thanks for stopping by</sub></p>
+
+</div>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWs1dzM2a3A0a2R3cnl6aHppNDl3bTFwanM1dDZpd3d0cHZqang1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uSoDr54W9M3uSBiTST/giphy.gif" width="120">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=1000&center=true&vCenter=true&width=750&lines=7%20%2C%2015%20%2C%2015%20%2C%204%20%20%20%20%20%20%20%20%20%2012%20%2C%2021%20%2C%203%20%2C%2011" />
+
+</div>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer">
 
 </div>
