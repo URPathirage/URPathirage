@@ -70,10 +70,6 @@ Uploading...
 
 SUCCESS!
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWs1dzM2a3A0a2R3cnl6aHppNDl3bTFwanM1dDZpd3d0cHZqang1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uSoDr54W9M3uSBiTST/giphy.gif" width="250">
-
 ```text
 ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
