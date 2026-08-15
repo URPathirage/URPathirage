@@ -208,6 +208,14 @@ My goal isn't just to make projects that work.
 
 </p>
 
+  <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/dist/github-jet.svg"
+    alt="GitHub Jet Heatmap"
+    width="100%"
+  />
+</p>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=42&duration=3000&pause=1200&center=true&vCenter=true&width=600&lines=See+Ya!+%F0%9F%91%8B;Until+Next+Time...;Keep+Going+%E2%9A%A1" />
