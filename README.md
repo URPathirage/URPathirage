@@ -1,4 +1,74 @@
-# GitHub Profile README — Uthpala
+<div align="center">
+
+## 🎮 Mini Adventure
+
+<details>
+<summary>🕹️ START GAME</summary>
+
+<br>
+
+### You wake up in my GitHub...
+
+There are three buttons in front of you:
+
+<details>
+<summary>🤖 Choose the Robot</summary>
+
+<br>
+
+🤖 **You found a mysterious robot!**
+
+It gives you two choices:
+
+<details>
+<summary>⚡ Press the RED BUTTON</summary>
+
+<br>
+
+💥 **SYSTEM OVERLOAD!**
+
+The robot has gained consciousness.
+
+**GAME OVER 😂**
+
+</details>
+
+<details>
+<summary>🔵 Press the BLUE BUTTON</summary>
+
+<br>
+
+✨ The robot joins your team.
+
+**YOU WIN! 🤖🏆**
+
+</details>
+
+</details>
+
+<br>
+
+<details>
+<summary>💻 Choose the Computer</summary>
+
+<br>
+
+💻 You find a mysterious terminal.
+
+`> RUN PROJECT`
+
+<details>
+<summary>▶️ Execute</summary>
+
+<br>
+
+```text
+Initializing...
+Connecting...
+Uploading...
+████████████████████ 100%
+
+SUCCESS!
 
 <div align="center">
 
